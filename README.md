@@ -1,5 +1,5 @@
 # OLED Digital Eye for Arduino/ESP32/Raspberry Pi
-This is a realistic digital eye OLED project that can be used with OLED display module projects.
+This is a realistic digital eye project that can be used with OLED display module projects.
 
 ## Prerequisite: Library
 - Install the Display Driver library ```ssd1306.h``` by **Alexey Dynda** in your Arduino IDE
